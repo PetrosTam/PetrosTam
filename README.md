@@ -75,4 +75,4 @@ Most of my repositories focus on:
 I value:
 - correctness over shortcuts  
 - clarity over complexity  
-- systems that scale *and* make sense
+- systems that scale and make sense
