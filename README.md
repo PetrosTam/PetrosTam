@@ -1,7 +1,7 @@
-# Hey there! 👋 I'm Petros
+## Hey there! 👋 I'm Petros
 
-Computer Scientist with a strong interest in **Data, AI, and Software Engineering**.  
-Currently focused on building **data-driven, reliable, and production-ready systems**.
+Computer Scientist with a strong interest in Data, AI, and Software Engineering.  
+Currently focused on building data-driven, reliable, and production-ready systems.
 
 ---
 
