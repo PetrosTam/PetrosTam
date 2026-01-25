@@ -3,13 +3,9 @@
 Computer Scientist with a strong interest in Data, AI, and Software Engineering.  
 Currently focused on building data-driven, reliable, and production-ready systems.
 
----
-
 ## 🎓 Education
 - **MSc in Computer Science**, University of Cyprus  
 - **BSc in Computer Science**, Northumbria University
-
----
 
 ## 🛠️ My Skill Set
 
