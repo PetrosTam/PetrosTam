@@ -77,21 +77,6 @@ Computer Scientist with a strong interest in **Data, AI, and Software Engineerin
 </td>
 </tr></table>
 
-  <tr>
-    <td align="center">
-      <b>Machine Learning</b><br><br>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-    </td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-
 
 ## 📌 Current Focus
 - Data Engineering & data quality validation  
