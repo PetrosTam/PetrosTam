@@ -1,5 +1,4 @@
 ## Hey there! 👋 I'm Petros
-
 Computer Scientist with a strong interest in **Data, AI, and Software Engineering**.
 
 
@@ -54,7 +53,6 @@ Computer Scientist with a strong interest in **Data, AI, and Software Engineerin
   </tr>
 </table>
 
----
 
 ## 📌 Current Focus
 - Data Engineering & data quality validation  
@@ -62,7 +60,6 @@ Computer Scientist with a strong interest in **Data, AI, and Software Engineerin
 - Backend architecture and clean APIs  
 - Writing maintainable, well-structured code  
 
----
 
 ## 📂 Projects
 Most of my repositories focus on:
@@ -73,14 +70,9 @@ Most of my repositories focus on:
 
 (see pinned repositories 👇)
 
----
 
 ## ⚙️ Philosophy
 I value:
 - correctness over shortcuts  
 - clarity over complexity  
-- systems that scale *and* make sense  
-
----
-
-Thanks for stopping by 👋
+- systems that scale *and* make sense
